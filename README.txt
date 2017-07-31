@@ -1,3 +1,3 @@
 # bank
 java 
-These are the program of java
+These are the programs of java
